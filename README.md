@@ -5,7 +5,7 @@ Simulations / models:
 
 Carolinesurveillance.ipynb: contains code for high risk node intervention/strategy. Images of Top 10 High risk nodes, distribution of node risk, infection time heatmap.
 
-SimulationwithMobilityData2.ipynb: code file contain the simulation and respective figures of the networks, SIR dynamics over time, midpoint infection, peak infection, peak patient infection.
+SimulationwithMobilityData2.ipynb: code file contains the simulation and respective figures of the networks, SIR dynamics over time, midpoint infection, peak infection, peak patient infection.
 
 SimulationwithMobilityData.ipynb: adds onto above file with centrality measures / centrality weighted networks.
 
