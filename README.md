@@ -13,6 +13,6 @@ SimultationwithIntervention.ipynb: simulation with lockdown wing intervention, f
 
 Simulation-maskingandtotaloutbreak.ipynb: simulation with the masking intervention, also the total outbreak graphs (code contains some graphs not used in final paper).
 
-Project-checkpoint.ipynb: part of original code we made that was built on to make our final simulation, nothing useful in here besides seeing our progress path.
+Project-checkpoint.ipynb: part of original code we made that was built on in order to make our final simulation, nothing useful in here besides seeing our progress path.
 
-Projet - initial sim with small data: built on porject-checkpoint.ipynb to plot epidemic curve, looking at different transmission rates, and outbreak network. Again, this was just initial coding to get a hang of what tools we used for the final simulation.
+Projet - initial sim with small data: built on porject-checkpoint.ipynb to plot epidemic curve, looking at different transmission rates, and outbreak network. Again, this was just initial coding to get a hang of what tools we used for the final simulation, and what direction we could take the project.
