@@ -2,6 +2,7 @@ Necessary txt files:
 Visits, patient population, nurse visits, nurse population, location, detailed list of constacts (DAT file)
 
 Simulations / models:
+
 Carolinesurveillance.ipynb: contains code for high risk node intervention/strategy. Images of Top 10 High risk nodes, distribution of node risk, infection time heatmap.
 
 SimulationwithMobilityData2.ipynb: code file contain the simulation and respective figures of the networks, SIR dynamics over time, midpoint infection, peak infection, peak patient infection.
